@@ -17,3 +17,4 @@ ___
         - Captions can be blown up but whatever size you want but cannot be shrunk down
     - Create .FCM file that includes the margin and hotspot information
   - When creating a conditional advanced action, there is an else statement at the bottom of the interface to say, "if otherwise"
+  - **When recording a screen capture, Captivate does not react to hover events inside of websites**
